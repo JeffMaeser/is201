@@ -1,0 +1,16 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+.site-heading-upper{
+    font-family: fantasy;
+}
+/* if updates dont work
+1. make sure you linked styles to page
+2. make sure you linked them correctly and below original styles
+3. make sure you spelled everything correctly, including capitals
+    3b. try !important before (before semicolon)
+4. try refreshing page
+5. try refreshing without cache
+6. try a different browser
+7. come to class and ask a ta
+8. be satisfied with less style
