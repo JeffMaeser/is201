@@ -1,0 +1,58 @@
+.name{
+    text-align: center;
+    font-size: 500%;
+    font-weight: lighter;
+    font-family: didot;
+    color: midnightblue;
+    text-decoration: underline overline;
+}
+body{
+    background-color: lightgray;
+}
+.common{
+    border: 10px solid white;
+      position: absolute;
+
+  }
+  .nav{
+      top: 0;
+      right: 0;
+      z-index: 1;
+      background-color: midnightblue;
+      position: fixed;
+      background-color: midnightblue;
+      right: 0;
+      left: 0;
+      text-align: center;
+      color: white;
+      display: block;
+  }
+  .order{
+    text-align: center;
+    font-size: xx-large;
+    font-family: didot;
+    font-weight: bold;
+  }
+  .line{
+    color: midnightblue;
+    font-size: 75%;
+    font-weight: lighter;
+  }
+  img{
+
+    display: block;
+    padding: 15px;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+  }
+  .vid{
+    text-align: center;
+    padding: 10px;
+  }
+  .bottom{
+    text-align: center;
+    font-family: didot;
+    font-size: larger;
+    font-weight: bold;
+  }
